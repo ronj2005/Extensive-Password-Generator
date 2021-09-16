@@ -18,8 +18,7 @@ Content Notes:
 // resets the password form then randomly selects from each character type through a for loop
 // Add event listener to generate button
 
-
-
+--end of Notes--
 
 This password generator was created as a technical practice of dom manipulation.
 
@@ -34,7 +33,7 @@ Repo Link: https://github.com/ronj2005/Aaron-Jones-Developer-Portfolio
 or
 
 copy the link to the site url to access the remote site.
-Direct Link: 
+Direct Link: https://ronj2005.github.io/Extensive-Password-Generator/
 
 Usage
 Open the index.html file in your browser of choice.
